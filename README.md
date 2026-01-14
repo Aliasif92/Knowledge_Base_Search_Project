@@ -3,7 +3,7 @@
 A local knowledge-base indexer and full-text search CLI that turns a folder of notes into a fast, queryable index.
 It uses SQLite FTS5 under the hood, so it is portable, fast, and requires no external services.
 
-## Why this is a good GitHub portfolio project
+## Project Stracture
 
 This repository showcases:
 
@@ -39,3 +39,4 @@ source .venv/bin/activate
 
 pip install -U pip
 pip install -e ".[dev]"
+
